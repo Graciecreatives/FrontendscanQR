@@ -1,0 +1,35 @@
+body{
+    background-color: #d5e1ef;
+    place-items: center;
+    padding-top: 80px;
+    
+}
+
+.theqr{
+    height: 430px;
+    width: 250px;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 15px;
+}
+
+.theqr img{
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+.theqr h4{
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+}
+
+.theqr p{
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #b7bcc3;
+  
+}
