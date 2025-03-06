@@ -1,8 +1,7 @@
 body{
     background-color: #b7bcc3;
     margin: 0;
-    padding: 50px;
-    height: 100%;
+    min-height: 100vh;    
     display: flex;
     justify-content: center;
     align-items: center;
