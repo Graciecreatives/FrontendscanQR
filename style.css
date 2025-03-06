@@ -1,7 +1,12 @@
 body{
-    background-color: #d5e1ef;
-    place-items: center;
-    padding-top: 80px;
+    background-color: #b7bcc3;
+    margin: 0;
+    padding: 50px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
     
 }
 
@@ -32,10 +37,4 @@ body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: #b7bcc3;
   
-}
-
-@media screen and (min-width: 320px) and (max-width: 600px) {
-    body {
-        place-items: center;
-    }
 }
